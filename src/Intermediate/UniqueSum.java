@@ -10,5 +10,5 @@ public class UniqueSum {
     private static void UniqueSum(int[] nums){
         int sum = Arrays.stream(nums).distinct().sum();
         System.out.println(sum);
-            }
+    }
 }
