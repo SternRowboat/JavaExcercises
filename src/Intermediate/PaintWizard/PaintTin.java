@@ -1,4 +1,4 @@
-package Intermediate.Garage;
+package Intermediate.PaintWizard;
 
 public class PaintTin {
     String name;

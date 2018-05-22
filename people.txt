@@ -1,0 +1,5 @@
+Dale | Trainer | 23
+George | Trainee | 24
+Benny | Trainee | 21
+Sam | Trainee | 21
+Kate | Trainee | 23
